@@ -23,6 +23,30 @@
 
 That's all!
 
+
+## SETUP
+ This script has been tested on MacOS hence should work on most unix based system
+
+1. Clone the repository
+ ```
+git clone https://github.com/KekeliDev/django_setup_shell_script.git
+ ```
+2. Get  into the repository
+ ```
+ cd django_setup_shell_script
+ ```
+
+ 3. Make the `django_setup.sh` executable
+ ```
+ chmod +x django_setup.sh
+ ```
+
+ 4. Run script; I am using a Bash Shell
+```
+bash ./django_setup.sh
+```
+5.  Follow the input commands and Relax
+
 ## Future Additions:
 
 * [ ] **Ability to create `urs.py` for `apps`**
