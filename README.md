@@ -4,7 +4,7 @@
 
 ## DISCLAIMER :warning:
 
-**This script has not error checks.** ***Beware of GIGO***
+**This script has no error checks.** ***Beware of GIGO***
 
 
 ## Specifications
